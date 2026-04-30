@@ -1,0 +1,13 @@
+{
+  "ads": {
+    "enabled": true,
+    "banner": "ca-app-pub-xxxx/banner",
+    "interstitial": "ca-app-pub-xxxx/interstitial",
+    "rewarded": "ca-app-pub-xxxx/rewarded",
+    "app_open": "ca-app-pub-xxxx/appopen"
+  },
+  "rules": {
+    "base_interstitial_interval": 3,
+    "max_ads_per_session": 5
+  }
+}
