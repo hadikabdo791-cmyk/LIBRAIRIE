@@ -1,13 +1,9 @@
 {
-  "ads": {
-    "enabled": true,
-    "banner": "ca-app-pub-xxxx/banner",
-    "interstitial": "ca-app-pub-xxxx/interstitial",
-    "rewarded": "ca-app-pub-xxxx/rewarded",
-    "app_open": "ca-app-pub-xxxx/appopen"
-  },
-  "rules": {
-    "base_interstitial_interval": 3,
-    "max_ads_per_session": 5
-  }
+  "ad_status": "on",
+  "ad_type": "admob",
+  "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/4191750810",
+  "admob_banner_unit_id": "ca-app-pub-8320002930826092/4820323271",
+  "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/5504832483",
+  "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/3074110266",
+  "onesignal_app_id": ""
 }
